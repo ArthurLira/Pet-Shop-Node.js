@@ -1,3 +1,4 @@
 # Pet-Shop-Node.js
-API Rest com Node.js e Express para criar o sistema de uma Pet Shop
+Sistema de uma loja de Pet Shop com recursos de cadastro e gerenciamento de clientes e serviços.
 
+O projeto é uma Web Api com o padrão Rest, técnologias usadas: Node.js com Express
